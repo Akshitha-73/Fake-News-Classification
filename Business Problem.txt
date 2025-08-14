@@ -1,6 +1,6 @@
-** Business Problem:**
+ Business Problem:
  The editorial and moderation teams currently rely on manual review to flag potentially fake or misleading news articles. This process is slow, labor-intensive, and prone to human bias, leading to delayed content removal and the possibility of misinformation reaching large audiences. With the increasing volume of news articles published every hour, it is becoming impractical to scale manual moderation. An automated detection and classification system is needed to quickly and accurately identify fake news content.
 
 
-** Business Objective:**
+ Business Objective:
  Improve platform trust and content integrity by automatically detecting and classifying fake news articles in real time.
